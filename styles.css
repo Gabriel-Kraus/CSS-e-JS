@@ -32,4 +32,10 @@ body {
     .hidden {
     display: none;
     }
+    #photo  {
+        text-align: center;
+        padding: 20px;
+        border-radius: 50%;
+        box-shadow: 0 0 10px
+    }
     
